@@ -1,1 +1,5 @@
-/*# sourceMappingURL=custom.css.map */
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Manrope:wght@500;700&display=swap");
+body {
+  font-family: "Manrope", sans-serif;
+  font-size: 13px;
+}/*# sourceMappingURL=custom.css.map */
