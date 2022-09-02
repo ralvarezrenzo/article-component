@@ -123,13 +123,18 @@ i {
   color: white;
 }
 
-.rojo {
-  display: none;
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  width: 100%;
+  background: hsl(210deg, 46%, 95%);
+  padding: 1rem;
 }
 
-.hola {
-  display: block;
-  font-size: 54px;
+.attribution a {
+  color: hsl(228deg, 45%, 44%);
+  width: 100%;
+  text-align: center;
 }
 
 @media screen and (min-width: 768px) {

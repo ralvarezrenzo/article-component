@@ -115,13 +115,17 @@ i{
 .btn-active{
     color: white;
 }
-.rojo{
-    display: none;
-}
-.hola{
-    display: block;
-    font-size: 54px;
-}
+.attribution {
+     font-size: 11px; text-align: center;
+     width: 100%;
+     background: $light-grayish-blue;
+     padding: 1rem;
+     }
+    .attribution a { 
+        color: hsl(228, 45%, 44%); 
+        width: 100%;
+        text-align: center;
+    }
 @media screen and (min-width: 768px) {
     .card__container{
         width: 800px;
